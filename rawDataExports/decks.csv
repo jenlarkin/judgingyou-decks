@@ -1,46 +1,46 @@
-'id','active','name','base_deck','description','weight'
-1151,t,'First Version',t,'The original version of the Cards Against Humanity base game.',1
-1152,t,'Second Version',t,'The updated version of the Cards Against Humanity base game.',2
-1153,t,'Canadian',f,'Cards included in Canadian orders.',20
-1154,t,'Misprint Replacement Bonus Cards',f,'Bonus cards included with replacements for misprinted cards.',21
-1155,t,'The First Expansion',f,'The official First Expansion.',10
-1256,t,'The Second Expansion',f,'The official Second Expansion.',11
-1488,t,'2012 Holiday Pack',f,'The 2012 Holiday Pack.',22
-100001,t,'[C] Cards Against Equinity',f,'My Little Pony themed expansion from the reddit MLP communities.',499
-100002,t,'[C] Very Serious',f,'http://forum.verysrs.com/',501
-100003,t,'[C] Admin''s Picks',f,'Custom cards that I think are particularly fitting.',100
-100017,t,'[C] SocialGamer',f,'Custom cards from the SocialGamer.net community.',101
-100049,t,'PAX East 2013 Pack &quot;A&quot;',f,'PAX East 2013 Pack &quot;A&quot;.',30
-100050,t,'PAX East 2013 Pack &quot;B&quot;',f,'PAX East 2013 Pack &quot;B&quot;.',31
-100051,t,'PAX East 2013 Pack &quot;C&quot;',f,'PAX East 2013 Pack &quot;C&quot;.',32
-100154,t,'The Third Expansion',f,'The official Third Expansion.',12
-100157,t,'[C] Northernlion',f,'http://www.youtube.com/user/Northernlion',502
-100160,t,'[C] Ridiculously Stupid',f,'',504
-100161,t,'[C] That Guy With The Glasses',t,'http://thatguywiththeglasses.com/',503
-100211,t,'Third Version',t,'Another updated version of the Cards Against Humanity base game.',3
-100219,t,'[C] Golby Fan Club',f,'',505
-100224,t,'[C] Anime',t,'http://www.desudesbrigade.com/',506
-100225,t,'[C] Mr. Man Collection',f,'',515
-100228,t,'[C] Sodomy Dog''s Furry Pack',f,'',516
-100229,t,'[C] Vidya',f,'by Sl0nderman',517
-100231,t,'[C] Game Grumps',f,'',518
-100232,t,'[C] Rooster Teeth',f,'',519
-100233,t,'[C] Derps Against Humanity',f,'',520
-100234,t,'[C] Anime Expansion #1',f,'http://www.desudesbrigade.com/',507
-100236,t,'[C] Antisocial Injustice',f,'',521
-100257,t,'Box Expansion',f,'The Expansion Box Box Expansion.',18
-100312,t,'PAX Prime 2013',f,'PAX Prime 2013',33
-100415,t,'The Fourth Expansion',f,'The official Fourth Expansion.',13
-100422,t,'2013 Holiday Bullshit',f,'http://www.holidaybullshit.com/',23
-100443,t,'[C] Imgur',f,'',522
-100444,t,'[C] FiMFiction.net',f,'For FiMFiction.net users, by Cola_Bubble_Gum.',500
-100445,t,'[C] /tg/',f,'/tg/',523
-100446,t,'[C] xkcd',f,'',524
-100447,t,'[C] RagingPsyfag''s Pack of Shenanigans',f,'',525
-100448,t,'[C] Cards Against Homestuck',f,'',526
-100449,t,'[C] Doctor Who',f,'',527
-100450,t,'[C] Khaos WolfKat',f,'',528
-100451,t,'[C] RPAnons',f,'',529
-100452,t,'[C] Eurovision Song Contest',f,'',530
-100453,t,'Polish Translation [Needs Review]',t,'I need somebody to examine this set on /viewcards.jsp and ensure that I didn''t screw up the character encoding.',50
-100485,f,'House of Cards Against Humanity',f,'House of Cards pack. http://www.houseofcardsagainsthumanity.com/',40
+id,deck_name,deck_code,watermark,is_custom_deck,is_active,is_base_deck,sort_weight,description
+1151,First Version,CAHMAIN1,CAH,f,t,t,1,The original version of the Cards Against Humanity base game.
+1152,Second Version,CAHMAIN2,CAH,f,t,t,2,The updated version of the Cards Against Humanity base game.
+1153,Canadian,CAHCANADA,CAN,f,t,f,20,Cards included in Canadian orders.
+1154,Misprint Replacement Bonus Cards,CAHMISPRNT,MIS,f,t,f,21,Bonus cards included with replacements for misprinted cards.
+1155,The First Expansion,CAHEX1,X1,f,t,f,10,The official First Expansion.
+1256,The Second Expansion,CAHEX2,X2,f,t,f,11,The official Second Expansion.
+1488,2012 Holiday Pack,CAHXMAS12,XM12,f,t,f,22,The 2012 Holiday Pack.
+100001,Cards Against Equinity,CAEQUINE,CAE,t,t,f,499,My Little Pony themed expansion from the reddit MLP communities.
+100002,Very Serious,VERYSRS,VS,t,t,f,501,http://forum.verysrs.com/
+100003,Admin&#39;s Picks,ADMINPICKS,ADM,t,t,f,100,Custom cards that I think are particularly fitting.
+100017,SocialGamer,SOCLGAMER,SG,t,t,f,101,Custom cards from the SocialGamer.net community.
+100049,PAX East 2013 Pack &quot;A&quot;,PAX2013A,PAX A,f,t,f,30,PAX East 2013 Pack &quot;A&quot;.
+100050,PAX East 2013 Pack &quot;B&quot;,PAX2013B,PAX B,f,t,f,31,PAX East 2013 Pack &quot;B&quot;.
+100051,PAX East 2013 Pack &quot;C&quot;,PAX2013C,PAX C,f,t,f,32,PAX East 2013 Pack &quot;C&quot;.
+100154,The Third Expansion,CAHEX3,X3,f,t,f,12,The official Third Expansion.
+100157,Northernlion,NORTHLION,NL,t,t,f,502,http://www.youtube.com/user/Northernlion
+100160,Ridiculously Stupid,RIDICSTUP,RS,t,t,f,504,
+100161,That Guy With The Glasses,GUYWGLASS,TGWTG,t,t,t,503,http://thatguywiththeglasses.com/
+100211,Third Version,CAHMAIN3,CAH,f,t,t,3,Another updated version of the Cards Against Humanity base game.
+100219,Golby Fan Club,GOLBYFAN,GFC,t,t,f,505,
+100224,Anime,ANIME,AN,t,t,t,506,http://www.desudesbrigade.com/
+100225,Mr. Man Collection,MRMAN,MrMan,t,t,f,515,
+100228,Sodomy Dog&#39;s Furry Pack,SODOMFURRY,Furry,t,t,f,516,
+100229,Vidya,VIDYA,Vidya,t,t,f,517,by Sl0nderman
+100231,Game Grumps,GAMEGRUMP,GG,t,t,f,518,
+100232,Rooster Teeth,ROOSTRTEEF,RT,t,t,f,519,
+100233,Derps Against Humanity,DERPSAH,DAH,t,t,f,520,
+100234,Anime Expansion &#35;1,ANIMEEX1,ANX1,t,t,f,507,http://www.desudesbrigade.com/
+100236,Antisocial Injustice,ANTISOCIAL,AI,t,t,f,521,
+100257,Box Expansion,CAHBOX,BOX,f,t,f,18,The Expansion Box Box Expansion.
+100312,PAX Prime 2013,PAX2013,PAX13,f,t,f,33,PAX Prime 2013
+100415,The Fourth Expansion,CAHEX4,X4,f,t,f,13,The official Fourth Expansion.
+100422,2013 Holiday Bullshit,CAHXMAS13,HBS,f,t,f,23,http://www.holidaybullshit.com/
+100443,Imgur,IMGUR,Imgur,t,t,f,522,
+100444,FiMFiction.net,FIMFICT,FiM1,t,t,f,500,For FiMFiction.net users&#44; by Cola_Bubble_Gum.
+100445,/tg/,TRADGAME,/tg/,t,t,f,523,/tg/
+100446,xkcd,XKCD,xkcd,t,t,f,524,
+100447,RagingPsyfag&#39;s Pack of Shenanigans,RAGEPSYFAG,RPF,t,t,f,525,
+100448,Cards Against Homestuck,HOMESTUCK,MSPA,t,t,f,526,
+100449,Doctor Who,DRWHO,DW,t,t,f,527,
+100450,Khaos WolfKat,KHAOS,KHAOS,t,t,f,528,
+100451,RPAnons,RPANONS,RP,t,t,f,529,
+100452,Eurovision Song Contest,EUROVISION,ESC,t,t,f,530,
+100453,Polish Translation [Needs Review],CAHPOLISH,CAHP,f,t,t,50,I need somebody to examine this set on /viewcards.jsp and ensure that I didn&#39;t screw up the character encoding.
+100485,House of Cards Against Humanity,HOUSEOFCAH,HOCAH,f,f,f,40,House of Cards pack. http://www.houseofcardsagainsthumanity.com/

@@ -20,7 +20,8 @@ SET text = REPLACE(text, '#', '&#35;');
 
 /* Update card_set to replace pound sign with HTML code for hash */
 UPDATE card_set
-SET name = REPLACE(name, '#', '&#35;');
+SET name = REPLACE(name, '#', '&#35;'),
+description = REPLACE(description, '#', '&#35;');
 
 --------- Only add replacements below this line --------
 
@@ -32,6 +33,11 @@ SET text = REPLACE(text, ',', '&#44;');
 UPDATE white_cards
 SET text = REPLACE(text, ',', '&#44;');
 
+/* Update card_set to replace commas with HTML code for commas */
+UPDATE card_set
+SET name = REPLACE(name, ',', '&#44;'),
+description = REPLACE(description, ',', '&#44;');
+
 /* Update black cards to replace apostrophe with HTML code for single quote */
 UPDATE black_cards
 SET text = REPLACE(text, '''', '&#39;');
@@ -42,7 +48,8 @@ SET text = REPLACE(text, '''', '&#39;');
 
 /* Update card_set to replace apostrophe with HTML code for single quote */
 UPDATE card_set
-SET name = REPLACE(name, '''', '&#39;');
+SET name = REPLACE(name, '''', '&#39;'),
+description = REPLACE(description, '''', '&#39;');
 
 /* Update black cards to replace quotation mark with HTML code for double quote */
 UPDATE black_cards
@@ -51,4 +58,9 @@ SET text = REPLACE(text, '"', '&#34;');
 /* Update white cards to replace quotation mark with HTML code for double quote */
 UPDATE white_cards
 SET text = REPLACE(text, '"', '&#34;');
+
+/* Update card_set to replace quotation mark with HTML code for double quote */
+UPDATE card_set
+SET name = REPLACE(name, '"', '&#34;'),
+description = REPLACE(description, '"', '&#34;');
 

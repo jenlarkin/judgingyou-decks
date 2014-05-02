@@ -1,0 +1,4 @@
+﻿ALTER TABLE card_set
+ADD COLUMN deck_code VARCHAR(10),
+ADD COLUMN watermark VARCHAR(5),
+ADD COLUMN is_custom_deck BOOLEAN NOT NULL DEFAULT 't'

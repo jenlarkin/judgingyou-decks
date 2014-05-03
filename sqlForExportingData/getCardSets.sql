@@ -1,9 +1,13 @@
 ﻿SELECT 
-  card_set.name, 
-  card_set.base_deck, 
-  card_set.id, 
-  card_set.active, 
-  card_set.description, 
-  card_set.weight
+  card_set.id,
+  card_set.name AS deck_name,
+  deck_code,
+  card_set.watermark, 
+  is_custom_deck,
+  active AS is_active,
+  card_set.base_deck AS is_base_deck, 
+  card_set.weight AS sort_weight,
+  description
 FROM 
-  public.card_set;
+  card_set
+ORDER BY id

@@ -1,14 +1,19 @@
-﻿SELECT 
-  white_cards.text, 
-  white_cards.watermark, 
-  card_set_white_card.card_set_id, 
-  card_set.name, 
-  card_set.base_deck
+﻿SELECT  
+  white_cards.id as card_id,
+  card_set_white_card.card_set_id as deck_id,
+  card_set.name AS deck_name,
+  card_set.deck_code,  
+  card_set.watermark,
+  card_set.is_custom_deck,
+  white_cards.text AS card_text
 FROM 
-  public.card_set, 
-  public.card_set_white_card, 
-  public.white_cards
+  card_set 
+  INNER JOIN card_set_white_card ON card_set.id = card_set_white_card.card_set_id
+  INNER JOIN white_cards ON card_set_white_card.white_card_id = white_cards.id
+  
+
 WHERE 
-  card_set.id = card_set_white_card.card_set_id AND
-  card_set_white_card.white_card_id = white_cards.id AND
   name = 'First Version'
+
+
+ORDER BY deck_name, card_id

@@ -1,6 +1,4 @@
 ﻿SELECT 
-  black_cards.id as card_id,
-  card_set.id as deck_id,
   card_set.name AS deck_name, 
   card_set.deck_code,
   card_set.watermark,
@@ -13,9 +11,9 @@ FROM
   INNER JOIN card_set_black_card ON black_cards.id = black_card_id 
   INNER JOIN card_set ON card_set.id = card_set_black_card.card_set_id
 
-  /*
+/*  
 WHERE 
   name = 'First Version'
   */
 
-ORDER BY deck_name, card_id
+ORDER BY deck_name, text

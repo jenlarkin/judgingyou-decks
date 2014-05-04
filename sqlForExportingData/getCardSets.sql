@@ -1,5 +1,4 @@
 ﻿SELECT 
-  card_set.id,
   card_set.name AS deck_name,
   deck_code,
   card_set.watermark, 

@@ -1,6 +1,4 @@
 ﻿SELECT  
-  white_cards.id as card_id,
-  card_set_white_card.card_set_id as deck_id,
   card_set.name AS deck_name,
   card_set.deck_code,  
   card_set.watermark,
@@ -16,4 +14,4 @@ WHERE
   name = 'First Version'
 
 
-ORDER BY deck_name, card_id
+ORDER BY deck_name, card_text

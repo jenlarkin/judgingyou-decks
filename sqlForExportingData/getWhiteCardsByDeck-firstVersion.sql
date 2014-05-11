@@ -1,6 +1,4 @@
-﻿SELECT  
-  card_set.name AS deck_name,
-  card_set.deck_code,  
+﻿SELECT    
   card_set.watermark,
   card_set.is_custom_deck,
   white_cards.text AS card_text
@@ -14,4 +12,4 @@ WHERE
   name = 'First Version'
 
 
-ORDER BY deck_name, card_text
+ORDER BY watermark, card_text

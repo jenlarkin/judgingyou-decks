@@ -1,10 +1,10 @@
-deck_name,deck_code,watermark,is_custom_deck,draw_before,number_to_play,card_text
-Antisocial Injustice,ANTISOCIAL,AI,t,0,1,All attempts at ____&#44; have met with failure and crippling economic sanctions.
-Antisocial Injustice,ANTISOCIAL,AI,t,0,1,At camp&#44; we&#39;d scare each other by telling stories about ____ around the fire.
-Antisocial Injustice,ANTISOCIAL,AI,t,0,1,Choosy Moms Choose ____.
-Antisocial Injustice,ANTISOCIAL,AI,t,0,1,Despite our Administration&#39;s best efforts&#44; we are still incapable of ____.
-Antisocial Injustice,ANTISOCIAL,AI,t,2,2,Eating ____ gave me ____.
-Antisocial Injustice,ANTISOCIAL,AI,t,0,2,I wouldn&#39;t ____ you with ____.
-Antisocial Injustice,ANTISOCIAL,AI,t,0,2,Show me on ____&#44; where he ____.
-Antisocial Injustice,ANTISOCIAL,AI,t,0,1,Technology improves every day. One day soon&#44; surfing the web will be replaced by ____.
-Antisocial Injustice,ANTISOCIAL,AI,t,0,1,The reason I go to church is to learn about ____.
+watermark,is_custom_deck,draw_before,number_to_play,card_text
+AI,t,0,1,All attempts at [blank]&#44; have met with failure and crippling economic sanctions.
+AI,t,0,1,At camp&#44; we&#39;d scare each other by telling stories about [blank] around the fire.
+AI,t,0,1,Choosy Moms Choose [blank].
+AI,t,0,1,Despite our Administration&#39;s best efforts&#44; we are still incapable of [blank].
+AI,t,2,2,Eating [blank] gave me [blank].
+AI,t,0,2,I wouldn&#39;t [blank] you with [blank].
+AI,t,0,2,Show me on [blank]&#44; where he [blank].
+AI,t,0,1,Technology improves every day. One day soon&#44; surfing the web will be replaced by [blank].
+AI,t,0,1,The reason I go to church is to learn about [blank].

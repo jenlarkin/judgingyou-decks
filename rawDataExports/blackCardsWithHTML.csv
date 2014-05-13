@@ -1,0 +1,32 @@
+id,text,draw,pick,watermark,card_text
+5198,&gt;walk into gamestop<br>&gt;see ____<br>&gt;walk out,0,1,Vidya,&gt;walk into gamestop<br>&gt;see [blank]<br>&gt;walk out
+5205,&gt;____<br>&gt;____<br>&gt;2011<br>&gt;ISHYGDDT,0,2,Vidya,&gt;[blank]<br>&gt;[blank]<br>&gt;2011<br>&gt;ISHYGDDT
+8731,&#34;____.&#34;<br>&#34;What the hell&#44; man?!&#34;<br>&#34;____.&#34;<br>&#34;Oh&#44; okay.&#34;,0,2,ANX1,&#34;[blank].&#34;<br>&#34;What the hell&#44; man?!&#34;<br>&#34;[blank].&#34;<br>&#34;Oh&#44; okay.&#34;
+100207,Here is the church<br>Here is the steeple<br>Open the doors<br>And there is ____.,0,1,1.3,Here is the church<br>Here is the steeple<br>Open the doors<br>And there is [blank].
+100004,test<sup>&reg;</sup><br><i>italic</i>&trade;<br><span class=&#34;card_number&#34;><b>&uarr;</b></span>,0,1,test,test<sup>&reg;</sup><br><i>italic</i>&trade;<br><span class=&#34;card_number&#34;><b>&uarr;</b></span>
+912,My ____ is the ____ that will pierce the heavens!!  <i>*same white card used for both blanks*</i>,0,1,AN,My [blank] is the [blank] that will pierce the heavens!!  <i>*same white card used for both blanks*</i>
+100298,The most controversial game at PAX this year is an 8-bit indie platformer about ____.<span class=&#34;cardnum&#34;>38 / 44</span>,0,1,13PAX,The most controversial game at PAX this year is an 8-bit indie platformer about [blank].<span class=&#34;cardnum&#34;>38 / 44</span>
+100299,What made Spock cry?<span class=&#34;cardnum&#34;>39 / 44</span>,0,1,13PAX,What made Spock cry?<span class=&#34;cardnum&#34;>39 / 44</span>
+100300,____: Achievement unlocked.<span class=&#34;cardnum&#34;>40 / 44</span>,0,1,13PAX,[blank]: Achievement unlocked.<span class=&#34;cardnum&#34;>40 / 44</span>
+100304,What&#39;s the latest bullshit that&#39;s troubling this quaint fantasy town?<span class=&#34;cardnum&#34;>43 / 44</span>,0,1,13PAX,What&#39;s the latest bullshit that&#39;s troubling this quaint fantasy town?<span class=&#34;cardnum&#34;>43 / 44</span>
+100047,Press <span class=&#34;card_number&#34;>&darr;</span><span class=&#34;card_number&#34;>&darr;</span><span class=&#34;card_number&#34;>&larr;</span><span class=&#34;card_number&#34;>&rarr;</span><span class=&#34;card_number&#34;>B</span> to unleash ____.,0,1,PAX C,Press <span class=&#34;card_number&#34;>&darr;</span><span class=&#34;card_number&#34;>&darr;</span><span class=&#34;card_number&#34;>&larr;</span><span class=&#34;card_number&#34;>&rarr;</span><span class=&#34;card_number&#34;>B</span> to unleash [blank].
+100301,There was a riot at the Gearbox panel when they gave the attendees ____.<span class=&#34;cardnum&#34;>41 / 44</span>,0,1,13PAX,There was a riot at the Gearbox panel when they gave the attendees [blank].<span class=&#34;cardnum&#34;>41 / 44</span>
+100302,In the new DLC for Mass Effect&#44; Shepard must save the galaxy from ____.<span class=&#34;cardnum&#34;>42 / 44</span>,0,1,13PAX,In the new DLC for Mass Effect&#44; Shepard must save the galaxy from [blank].<span class=&#34;cardnum&#34;>42 / 44</span>
+100303,No Enforcer wants to manage the panel on ____.<span class=&#34;cardnum&#34;>44 / 44</span>,0,1,13PAX,No Enforcer wants to manage the panel on [blank].<span class=&#34;cardnum&#34;>44 / 44</span>
+100390,You&#39;ve seen the bearded lady!<br/>You&#39;ve seen the ring of fire!<br/>Now&#44; ladies and gentlemen&#44; feast your eyes upon ____!,0,1,X4,You&#39;ve seen the bearded lady!<br/>You&#39;ve seen the ring of fire!<br/>Now&#44; ladies and gentlemen&#44; feast your eyes upon [blank]!
+100392,She&#39;s up all night for good fun.<br/>I&#39;m up all night for ____.,0,1,X4,She&#39;s up all night for good fun.<br/>I&#39;m up all night for [blank].
+100394,Dear Leader Kim Jong-un&#44;<br/>our village praises your infinite wisdom with a humble offering of ____.,0,1,X4,Dear Leader Kim Jong-un&#44;<br/>our village praises your infinite wisdom with a humble offering of [blank].
+100409,Do <i>not</i> fuck with me! I am literally ____ right now.,0,1,X4,Do <i>not</i> fuck with me! I am literally [blank] right now.
+100410,2 AM in the city that never sleeps. The door swings open and <i>she</i> walks in&#44; legs up to here. Something in her eyes tells me she&#39;s looking for ____.,0,1,X4,2 AM in the city that never sleeps. The door swings open and <i>she</i> walks in&#44; legs up to here. Something in her eyes tells me she&#39;s looking for [blank].
+100385,In the beginning&#44; there was ____.<br/>And the Lord said&#44; &#34;Let there be ____.&#34;,0,2,X4,In the beginning&#44; there was [blank].<br/>And the Lord said&#44; &#34;Let there be [blank].&#34;
+100412,Adventure.<br/>Romance.<br/>____.<br/><br/>From Paramount Pictures&#44; &#34;____.&#34;,0,2,X4,Adventure.<br/>Romance.<br/>[blank].<br/><br/>From Paramount Pictures&#44; &#34;[blank].&#34;
+100441,GREETINGS HUMANS<br><br>I AM ____ BOT<br><br>EXECUTING PROGRAM,0,1,HBS,GREETINGS HUMANS<br><br>I AM [blank] BOT<br><br>EXECUTING PROGRAM
+8814,____ <br>~Skeeter The Lurker,0,1,FiM1,[blank] <br>~Skeeter The Lurker
+8962,What I made: ____.<br>What the DM saw: ____.<br>What I played: ____,2,3,/tg/,What I made: [blank].<br>What the DM saw: [blank].<br>What I played: [blank]
+100458,Revealed:<br>Why He Really Resigned!<br>Pope Benedict&#39;s Secret Struggle with ____!,0,1,HBS,Revealed:<br>Why He Really Resigned!<br>Pope Benedict&#39;s Secret Struggle with [blank]!
+100459,Here&#39;s what you can expect for the new year.<br>Out: ____.<br>In: ____.,0,2,HBS,Here&#39;s what you can expect for the new year.<br>Out: [blank].<br>In: [blank].
+842,Chicks. Dig. ____. <i>Nice.</i>,0,1,AN,Chicks. Dig. [blank]. <i>Nice.</i>
+5211,Ironic ____ is still ____.<br><br>(same in both blanks),0,1,Vidya,Ironic [blank] is still [blank].<br><br>(same in both blanks)
+100108,And what did <i>you</i> bring for show and tell?,0,1,X3,And what did <i>you</i> bring for show and tell?
+92,Dear Abby&#44;<br><br>I&#39;m having some trouble with ____ and would like your advice.,0,1,1.2,Dear Abby&#44;<br><br>I&#39;m having some trouble with [blank] and would like your advice.
+34,War!<br><br>What is it good for?,0,1,,War!<br><br>What is it good for?

@@ -1,7 +1,7 @@
 deck_name,deck_code,watermark,is_custom_deck,is_active,is_base_deck,sort_weight,description
 First Version,CAHMAIN1,CAH,f,t,t,1,The original version of the Cards Against Humanity base game.
 Second Version,CAHMAIN2,CAH,f,t,t,2,The updated version of the Cards Against Humanity base game.
-Canadian,CAHCANADA,CAN,f,t,f,20,Cards included in Canadian orders.
+Canadian,CAHCANADA,CAN,f,t,t,20,Cards included in Canadian orders.
 Misprint Replacement Bonus Cards,CAHMISPRNT,MIS,f,t,f,21,Bonus cards included with replacements for misprinted cards.
 The First Expansion,CAHEX1,X1,f,t,f,10,The official First Expansion.
 The Second Expansion,CAHEX2,X2,f,t,f,11,The official Second Expansion.

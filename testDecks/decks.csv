@@ -1,0 +1,16 @@
+deck_name,deck_code,watermark,is_custom_deck,is_active,is_base_deck,sort_weight,description
+Non-Custom Active Base Deck,NCABD,ACT1,f,t,t,1,Non-Custom Active Base Deck
+Non-Custom Inactive Base Deck,NCIBD,INACT1,f,f,t,2,Non-Custom Inactive Base Deck
+Custom Active Base Deck,CABD,ACT2,t,t,t,3,Custom Active Base Deck
+Custom Inactive Base Deck,CIBD,INACT2,t,f,t,4,Custom Inactive Base Deck
+Non-Custom Active Expansion,NCAE,ACT3,f,t,f,5,Non-Custom Active Expansion
+Non-Custom Inactive Expansion,NCIE,INACT3,f,f,f,6,Non-Custom Inactive Expansion
+Custom Active Expansion,CAE,ACT4,t,t,f,7,Custom Active Expansion
+Custom Inactive Expansion,CIE,INACT4,t,f,f,8,Custom Inactive Expansion
+Active Deck with no CSVs,ADNOCSV,NOCSV,t,t,t,9,Active Deck with no CSVs
+Active Deck with Only Prompts,ADPROMPT,PROM,t,t,t,10,Active Deck with Only Prompts
+Active Deck with Only Answers,ADANSWER,ANS,t,t,t,11,Active Deck with Only Answers
+Deck with Invalid Custom Boolean,BADBOOLC,BOOL1,nope,t,t,12,Deck with Invalid Custom Boolean
+Deck with Invalid Active Boolean,BADBOOLA,BOOL2,t,nope,t,13,Deck with Invalid Active Boolean
+Deck with Invalid Base Deck Boolean,BADBOOLB,BOOL3,t,t,nope,14,Deck with Invalid Base Deck Boolean
+Deck with Invalid Sort Weight,BADSORT,BS,t,t,t,q,Deck with Invalid Sort Weight

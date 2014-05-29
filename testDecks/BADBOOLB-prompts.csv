@@ -1,0 +1,11 @@
+watermark,is_custom_deck,draw_before,number_to_play,card_text
+BOOL3,t,0,1,This prompt has a comma [blank]&#44; and then some other text.
+BOOL3,t,0,1,This prompt has an apostrophe we&#39;d put before the [blank].
+BOOL3,t,0,1,This prompt card has quotes around the &#34;[blank]&#34;.
+BOOL3,t,0,1,This prompt is amping things up &amp; and taking [blank].
+BOOL3,t,0,1,This prompt is &#35; 1 with a [blank].
+BOOL3,t,0,1,This prompt is a question?
+BOOL3,t,0,2,This prompt is draw 0 play 2
+BOOL3,t,1,2,This prompt is draw 1 play 2
+BOOL3,t,2,2,This prompt is draw 2 play 2
+BOOL3,t,2,3,This prompt is draw 2 play 3
